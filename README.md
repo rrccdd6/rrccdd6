@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @rrccdd6
+<!-- - 👋 Hi, I’m @rrccdd6
 - 👀 I’m interested in data...
 - 🌱 I’m currently learning sql, oracle, mysql ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rrccdd6@gmail.com...
+- 📫 How to reach me rrccdd6@gmail.com...-->
+
+# Hey There! I am Damantha Jasinghe
+
+  <a href="https://github.com/rrccdd6"><img alt="Ricardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rrccdd6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
+# MY TOOLS AND LANG
 
+  <p align ="left">
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  </p> 
 
 # MOST USED LANGUAGES
 
@@ -17,9 +29,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/rrccdd6/count.svg)
 
 
-# Social  Midia
+# Contact
 
 <a href="https://www.instagram.com/rrfernandes9" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](rrccdd6:rrccdd6@gmal.com)
 
 <!---
 rrccdd6/rrccdd6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
