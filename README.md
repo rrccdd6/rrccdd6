@@ -11,7 +11,7 @@ Olá, eu sou o Ricardo Rodrigues!
 
 # MY TOOLS AND LANG  |  
 Meus conhecimentos 
-
+<br><br><br>
   <p align ="left">
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -24,7 +24,7 @@ Meus conhecimentos
 <br><br><br>
 # MOST USED LANGUAGES | 
 Linguagens mais usadas
-
+<br><br><br>
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rrccdd6&theme=midnight-purple&show_icons=true&count_private=true)
 
 <br><br><br>
@@ -33,7 +33,7 @@ Linguagens mais usadas
 <br><br><br>
 # Visitors Count | 
 Contador de Visitas 
-
+<br><br><br>
 ![Visitor Count](https://profile-counter.glitch.me/rrccdd6/count.svg)
 
 <br><br><br>
