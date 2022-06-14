@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rrccdd6@gmail.com...
 
-
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rrccdd6&theme=midnight-purple&show_icons=true&count_private=true)
 
 ![Visitor Count](https://profile-counter.glitch.me/rrccdd6/count.svg)
 
