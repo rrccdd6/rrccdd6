@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rrccdd6@gmail.com...-->
 
-# Hey There! I am Damantha Jasinghe
+# Hey There! I am Ricardo Rodrigues!
 
+
+<br><br><br>
   <a href="https://github.com/rrccdd6"><img alt="Ricardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rrccdd6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
