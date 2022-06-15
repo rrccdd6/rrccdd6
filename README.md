@@ -40,11 +40,12 @@ Contador de Visitas
 # Contact  
 Contato
 
-<h2 align ="center">
+<spam></spam>
 <a href="https://www.instagram.com/rrfernandes9" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-
+</spam>
+<spam>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](rrccdd6:rrccdd6@gmal.com)
- </h2> 
+</spam>
 <!---
 rrccdd6/rrccdd6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
