@@ -51,7 +51,7 @@ Contador de Visitas
 # Contact  
 Contato
 
-<spam>
+<spam></spam>
 <a href="https://www.instagram.com/rrfernandes9" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
 </spam>
 <spam>
