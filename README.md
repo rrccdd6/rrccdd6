@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning sql, oracle, mysql ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rrccdd6@gmail.com...-->
-
+<body style="background-color:white;">
 # Hey There! I am Ricardo Rodrigues!  
 Olá, eu sou o Ricardo Rodrigues!
 
@@ -22,12 +22,11 @@ Meus conhecimentos
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code> 
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <br><br>
   A maioria dos meus trabalhos eu desenvolvo usando:
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> 
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code> 
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"></code> 
   </p> 
 
 
