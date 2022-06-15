@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rrccdd6@gmail.com...-->
 <body style="background-color:white;">
+  
 # Hey There! I am Ricardo Rodrigues!  
 Olá, eu sou o Ricardo Rodrigues!
 
@@ -58,6 +59,8 @@ Contato
 <spam>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](rrccdd6:rrccdd6@gmal.com)
 </spam>
+
+</body>
 <!---
 rrccdd6/rrccdd6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
