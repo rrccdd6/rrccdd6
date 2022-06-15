@@ -14,16 +14,19 @@ Meus conhecimentos
 <br><br><br>
   <p align ="left">
   Em Banco de Dados:
+    <br>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>  
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br><br>
   Em Front-End: 
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <br>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code> 
   <br><br>
   A maioria dos meus trabalhos eu desenvolvo usando:
+    <br>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> 
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"></code> 
