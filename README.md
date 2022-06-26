@@ -33,13 +33,6 @@ Meus conhecimentos
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"></code> 
   </p> 
 
-
-<br>
-# MOST USED LANGUAGES  
-Linguagens mais usadas
-<br><br>
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rrccdd6&theme=midnight-purple&show_icons=true&count_private=true)
-
 <br>
 
 # Visitors Count  
