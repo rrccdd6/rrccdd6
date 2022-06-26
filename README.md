@@ -34,20 +34,20 @@ Meus conhecimentos
   </p> 
 
 
-<br><br>
+<br>
 # MOST USED LANGUAGES  
 Linguagens mais usadas
 <br><br>
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rrccdd6&theme=midnight-purple&show_icons=true&count_private=true)
 
-<br><br>
+<br>
 
 # Visitors Count  
 Contador de Visitas 
 <br><br>
 ![Visitor Count](https://profile-counter.glitch.me/rrccdd6/count.svg)
 
-<br><br><br>
+<br><br>
 # Contact  
 Contato
 
